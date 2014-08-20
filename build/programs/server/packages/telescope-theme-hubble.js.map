@@ -1,0 +1,1 @@
+{"version":3,"file":"/packages/telescope-theme-hubble.js","sources":["telescope-theme-hubble/lib/hubble.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,6F","sourcesContent":["themeSettings.useDropdowns = true; // not strictly needed since \"true\" is the current default\n"]}
